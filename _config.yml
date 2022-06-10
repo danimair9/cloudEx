@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
+
+
+# Supports true (default) or false
+heading_anchors: true
